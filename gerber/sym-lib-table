@@ -5,5 +5,4 @@
   (lib (name "2PHeader")(type "KiCad")(uri "${KIPRJMOD}/Librairie/Pin Header/2P/SSW-102-02-G-S.kicad_sym")(options "")(descr ""))
   (lib (name "25x2PHeader")(type "KiCad")(uri "${KIPRJMOD}/Librairie/Pin Header/25x2/SSW-125-01-T-D-LL.kicad_sym")(options "")(descr ""))
   (lib (name "30x2Pheader")(type "KiCad")(uri "${KIPRJMOD}/Librairie/Pin Header/30x2/SSW-130-01-T-D-LL.kicad_sym")(options "")(descr ""))
-  (lib (name "graphics")(type "KiCad")(uri "${KIPRJMOD}/Librairie/graphics.pretty/logo.kicad_sym")(options "")(descr ""))
 )
